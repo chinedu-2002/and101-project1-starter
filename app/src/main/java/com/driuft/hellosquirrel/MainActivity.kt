@@ -27,6 +27,8 @@ class MainActivity : AppCompatActivity() {
         profileImage = findViewById(R.id.profile_image)
         profileName = findViewById(R.id.profile_name)
         profileBio = findViewById(R.id.profile_bio)
+
+
     }
 
     private fun setupProfile() {
@@ -35,7 +37,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.avatar_12))
     }
 
     private fun configureName() {

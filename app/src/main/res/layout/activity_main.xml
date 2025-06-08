@@ -41,7 +41,7 @@
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:textAllCaps="true"/>
+                android:textAllCaps="false"/>
 
             <TextView
                 android:id="@+id/profile_bio"
