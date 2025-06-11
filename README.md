@@ -2,15 +2,15 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: Emmanuel Enenta
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+Chinedu's app is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿. blending tech with a touch of woodland charm. It's a beginner-friendly intro to Android development with a whole lot of heart.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🐿️📱✨
 
 ## Application Features
 
@@ -18,9 +18,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Change profile name to your name
-- [ ] Change profile bio text to a personal bio about yourself
-- [ ] Modify hobby section to include your top three (3) hobbies
+- [x] Change profile name to your name
+- [x] Change profile bio text to a personal bio about yourself
+- [x] Modify hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
@@ -50,7 +50,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2025 Emmanuel Enenta
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
